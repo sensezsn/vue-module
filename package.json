@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "x-quant",
+  "name": "vue-module",
   "version": "1.0.0-alpha",
-  "description": "X-Quant is a quantitative trading platform",
+  "description": "vue-module",
   "engines": {
     "node": ">=6.11.5"
   },
@@ -22,16 +22,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://10.100.142.109/FE-Team/x-quant.git"
+    "url": "https://github.com/sensezsn/vue-module.git"
   },
   "author": {
-    "name": "evan2x",
-    "email": "evan2zaw@gmail.com"
+    "name": "zsn",
+    "email": "senseZSn@163.com"
   },
   "bugs": {
-    "url": "http://10.100.142.109/FE-Team/x-quant/issues"
+    "url": "https://github.com/sensezsn/vue-module/issues"
   },
-  "homepage": "http://10.100.142.109/FE-Team/x-quant#readme",
+  "homepage": "https://github.com/sensezsn/vue-module",
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/plugin-proposal-class-properties": "^7.0.0",

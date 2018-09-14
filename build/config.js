@@ -1,7 +1,7 @@
 'use strict';
 
 const config = {
-  title: 'X-Quant',
+  title: 'vue-module',
   output: './dist',
   vendor: {
     path: './node_modules/__dll-vendor-bundle__',

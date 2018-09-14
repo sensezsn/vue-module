@@ -1,4 +1,4 @@
-# X-Quant
+# vue-module
 
 The boilerplate based on [vue](https://github.com/vuejs/vue), [vue-router](https://github.com/vuejs/vue-router), [vuex](https://github.com/vuejs/vuex), [webpack](https://webpack.js.org/), [nprogress](http://ricostacruz.com/nprogress/), [axios](https://github.com/mzabriskie/axios) for rapid project development
 
