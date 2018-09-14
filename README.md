@@ -30,7 +30,7 @@ $ open build/config.js
 'use strict';
 
 const config = {
-  title: 'React boilerplate',
+  title: 'vue boilerplate',
   output: './dist', // 构建输出目录
   port: 8688,
   mock: {
