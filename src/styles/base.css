@@ -1,0 +1,9 @@
+.clearfix {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+img {
+  max-width: 100%;
+}
